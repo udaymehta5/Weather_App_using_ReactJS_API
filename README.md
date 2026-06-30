@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Neon Weather App
+#  Weather App using React
 
 A stylish, modern weather application built with React and Vite. It features a premium "Dark and Neon" cyberpunk aesthetic with glassmorphism effects, dynamic CSS animations, and real-time weather data integration.
 
