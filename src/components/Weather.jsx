@@ -93,7 +93,6 @@ const Weather = () => {
             <img src={wind_icon} alt="" />
             <div>
                 <p>{weatherData.windSpeed} km/h</p>
-                //small change
                 <span>wind speed</span>
             </div>
         </div>
